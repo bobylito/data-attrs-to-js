@@ -1,0 +1,15 @@
+{
+  "name": "data-attrs-to-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "prova test.js -b -l phantom -q -f test.html",
+    "dev": "prova test.js -b -f test.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prova": "^1.14.2"
+  }
+}
