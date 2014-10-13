@@ -7,6 +7,10 @@
     "test": "prova test.js -b -l phantom -q -f test.html",
     "dev": "prova test.js -b -f test.html"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ThankYouMotion/data-attrs-to-js.git"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
