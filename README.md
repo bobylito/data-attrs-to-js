@@ -15,7 +15,7 @@ Parse your [data attributes](https://developer.mozilla.org/en-US/docs/Web/Guide/
 
 ```js
 var tojs = require('data-attrs-to-js');
-var elem = document.querySelector('dataz');
+var elem = document.querySelector('#dataz');
 
 console.log(tojs(elem));
 
